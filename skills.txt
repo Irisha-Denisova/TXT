@@ -1,0 +1,14 @@
+git bush
+github
+http/https
+json
+xml
+postman
+dev tools
+fiddler
+charles
+andriod stidio
+terminal linux
+SQL
+postgres
+jmeter
